@@ -3,7 +3,7 @@ Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
 Author: Brendan Gongol
-Maintainer: The package maintainer <brengong@gmail.comt>
+Maintainer: The package maintainer <brengong@gmail.com>
 Description: This package contains functions to manage and mine clinical data. 
 License: What license is it under?
 Encoding: UTF-8
